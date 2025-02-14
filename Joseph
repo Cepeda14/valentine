@@ -1,0 +1,4 @@
+📁 project-folder
+│── index.html    # Main HTML file
+│── style.css     # Stylesheet for design and animations
+│── script.js     # JavaScript file for interaction
